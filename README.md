@@ -1,0 +1,1 @@
+# Quiroscopio_SVM
